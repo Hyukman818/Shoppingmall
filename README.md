@@ -9,3 +9,7 @@
 # 검색
 
 - itemsearch.md 추가
+
+# 상품 소개
+
+- itemintro.md 추가
